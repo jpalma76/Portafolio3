@@ -1,0 +1,124 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.navbar {
+    width: 100%;
+    min-height: 230px;
+    display: flex;
+    align-items: center;
+    justify-content: center !important;
+}
+.title {
+    font-size: 4rem !important;
+    color: brown;
+    margin-bottom: 20px;
+    font-family: "Honk", system-ui;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+        "MORF" 15,
+        "SHLN" 50;
+}
+h2 {
+    text-align: center;
+}
+.container {
+    padding: 20px;
+}
+.nav-links {
+    width: 90%;
+    height: 40px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-bottom: 10px;
+}
+.nav-links a {
+    font-family: "Indie Flower", cursive;
+    font-weight: bold;
+    font-style: oblique;
+    text-align: center;
+    text-decoration: none;
+    font-size: 17px;
+    padding: 5px 17px;
+    border-radius: 18px
+}
+.nav-links a:hover {
+    background-color: gold;
+    color: white;
+}
+.image-container {
+    width: 100%;
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#foto-mia {
+    width: 120px;
+    height: 130px;
+    border-radius: 50%;
+    border: 1px solid lightsalmon;
+    margin-top: 30px;
+}
+.page-one {
+    width: 100%;
+    height: 410px;
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    box-sizing: border-box;
+}
+.page-one p {
+    text-align: justify;
+}
+.subtitle {
+    margin-bottom: 20px;
+}
+td, th, tr {
+    text-align: center;
+}
+.footer {
+    width: 100%;
+    height: 80px;
+    border-top: 1px solid grey;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.footer p {
+    font-size: 13px;
+}
+.marca {
+    font-weight: bold;
+}
+
+@media(max-width:600px) {
+
+    .nav-links {
+        width: 100%;
+        height: 60px;
+        flex-direction: column;
+        justify-content: center;
+        height: 280px;
+    }
+    .a {
+        justify-content: center;
+        width: 90%;
+        height: 60px;
+        border: 1px solid grey;
+        font-size: 18px;
+        letter-spacing: 1.5;
+        border-radius: 5px;
+        margin-bottom: 5px;
+        padding-top: 4px;
+    }
+
+    
+}
