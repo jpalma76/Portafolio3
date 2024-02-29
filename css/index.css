@@ -139,3 +139,13 @@ td, th, tr {
         height: 210px;
     }
 }
+
+@media(max-width:400px) {
+    .navbar {
+        justify-content: center;
+        align-items: center;
+    }
+    .title {
+        text-align: center;
+    }
+}
