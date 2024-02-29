@@ -110,36 +110,36 @@
         "id": 18,
         "name": "curso javascript nivel 1 - Jóvenes Programadores",
         "url": "./img-certificados/curso_javascript_nivel1.png",
-        "platform": "JóvenesProgramadores"
+        "platform": "Jóvenes Programadores"
     },
     {
         "id": 19,
         "name": "curso javascript nivel 2 - Jóvenes Programadores",
         "url": "./img-certificados/curso_javascript_nivel2.png",
-        "platform": "JóvenesProgramadores"
+        "platform": "Jóvenes Programadores"
     },
     {
         "id": 20,
         "name": "Curso PHP nivel 1 - Jóvenes Programadores",
         "url": "./img-certificados/curso_php_jovenes_programadores.png",
-        "platform": "JóvenesProgramadores"
+        "platform": "Jóvenes Programadores"
     },
     {
         "id": 21,
         "name": "Curso CSS - Jóvenes Programadores",
         "url": "./img-certificados/curso_css_jovenesprogramadores.png",
-        "platform": "JóvenesProgramadores"
+        "platform": "Jóvenes Programadores"
     },
     {
         "id": 22,
         "name": "Curso Introducción a Python - Jóvenes Programadores",
         "url": "./img-certificados/curso-introduccion-a-python.png",
-        "platform": "JóvenesProgramadores"
+        "platform": "Jóvenes Programadores"
     },
     {
         "id": 23,
         "name": "Curso de React - Jóvenes Programadores",
         "url": "./img-certificados/curso-de-react.png",
-        "platform": "JóvenesProgramadores"
+        "platform": "Jóvenes Programadores"
     }
 ]
