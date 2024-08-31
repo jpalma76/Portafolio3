@@ -2,51 +2,88 @@
 
     {
         "id": 1,
-        "name": "Aplicación de Herramientas para la Certificación de Calidad de Servicios de Telecomunicaciones HFC",
-        "platform": "Sence",
-        "image": "./img-certificados/certificaciones-vtr/aplicación_de_herramientas_para_la_certificación_de_calidad_de_servicios_de_telecomunicaciones.png",
-        "url": "./img-certificados/certificaciones-vtr/aplicación_de_herramientas_para_la_certificación_de_calidad_de_servicios_de_telecomunicaciones.png"
+        "name": "Instalación de Servicio ClaroVTR en red neutra",
+        "platform": "Sence"
     },
     {
         "id": 2,
-       "name": "Aplicación Práctica de Procotolos de Atención y Servicios para la Atención de Clientes",
-       "platform": "Sence",
-        "image": "./img-certificados/certificaciones-vtr/aplicacion_practica_de_procotolos_de_atencion_y_servicios_para_la_atencion_de_clientes.png",
-        "url": "./img-certificados/certificaciones-vtr/aplicacion_practica_de_procotolos_de_atencion_y_servicios_para_la_atencion_de_clientes.png"
+        "name": "Aplicación de Herramientas para la Certificación de Calidad de Servicios de Telecomunicaciones HFC",
+        "platform": "Sence"
     },
     {
         "id": 3,
-       "name": "instalación de los Servicios en Redes HFC (Hibrido de Fibra Coaxial)",
-        "platform": "Sence",
-        "image": "./img-certificados/certificaciones-vtr/instalacion_de_los_servicios_en_redes_hfc_(hibrido_de_fibra_coaxial).png",
-        "url": "./img-certificados/certificaciones-vtr/instalacion_de_los_servicios_en_redes_hfc_(hibrido_de_fibra_coaxial).png"
+       "name": "Aplicación Práctica de Procotolos de Atención y Servicios para la Atención de Clientes",
+       "platform": "Sence"
     },
     {
         "id": 4,
-       "name": "Instalación de productos domiciliarios",
-        "platform": "Sence",
-        "image": "./img-certificados/certificaciones-vtr/instalacion_de_productos_domiciliarios.png",
-        "url": "./img-certificados/certificaciones-vtr/instalacion_de_productos_domiciliarios.png"
+       "name": "instalación de los Servicios en Redes HFC (Hibrido de Fibra Coaxial)",
+        "platform": "Sence"
     },
     {
         "id": 5,
-       "name": "Instalación de Servicios en redes FTTH",
-        "platform": "Sence",
-        "image": "./img-certificados/certificaciones-vtr/instalacion_de_servicios_en_redes_ftth.png",
-        "url": "./img-certificados/certificaciones-vtr/instalacion_de_servicios_en_redes_ftth.png"
+       "name": "Instalación de productos domiciliarios",
+        "platform": "Sence"
     },
     {
         "id": 6,
-       "name": "Manejo de Procedimiento de Instalaciones de Calidad",
-        "platform": "Sence",
-        "image": "./img-certificados/certificaciones-vtr/manejo_de_procedimiento_de_instalaciones_de_calidad.png",
-        "url": "./img-certificados/certificaciones-vtr/manejo_de_procedimiento_de_instalaciones_de_calidad.png"
+       "name": "Instalación de Servicios en redes FTTH",
+        "platform": "Sence"
     },
     {
         "id": 7,
+       "name": "Manejo de Procedimiento de Instalaciones de Calidad",
+        "platform": "Sence"
+    },
+    {
+        "id": 8,
        "name": "Trabajo en Altura para la Industria de Telecomunicaciones",
-        "platform": "Sence",
-        "image": "./img-certificados/certificaciones-vtr/trabajo_en_altura_para_la_industria_de_telecomunicaciones.png",
-        "url": "./img-certificados/certificaciones-vtr/trabajo_en_altura_para_la_industria_de_telecomunicaciones.png"
+        "platform": "Sence"
+    },
+    
+    {
+        "id": 9,
+        "name": "Seguridad Eléctrica General N1",
+        "platform": "ACHS"
+    },
+    {
+        "id": 10,
+       "name": "Seguridad Eléctrica Operacional N2",
+       "platform": "ACHS"
+    },
+    {
+        "id": 11,
+       "name": "Identificación de Peligros y Evaluación de Riesgos en el Trabajo",
+        "platform": "ACHS"
+    },
+    {
+        "id": 12,
+       "name": "Conducción Defensiva en Vehículos Livianos",
+        "platform": "ACHS"
+    },
+    {
+        "id": 13,
+       "name": "Medidas Preventivas Frente a Radiación UV",
+        "platform": "ACHS"
+    },
+    {
+        "id": 14,
+       "name": "Uso de Extintores",
+        "platform": "ACHS"
+    },
+    {
+        "id": 15,
+       "name": "Primera Respuesta Frente a Emergencias de Salud",
+        "platform": "ACHS"
+    },
+    {
+        "id": 16,
+       "name": "Manejo Manual de Cargas",
+        "platform": "ACHS"
+    },
+    {
+        "id": 17,
+       "name": "Evitando Dolencias Músculo esqueléticas de Extremidades Superiores (TMERT) en su Trabajo",
+        "platform": "ACHS"
     }
 ]
